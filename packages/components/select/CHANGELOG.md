@@ -1,5 +1,12 @@
 # @nextui-org/select
 
+## 2.1.12
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @nextui-org/popover@2.1.10
+
 ## 2.1.11
 
 ### Patch Changes

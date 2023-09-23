@@ -1,5 +1,26 @@
 # @nextui-org/react
 
+## 2.1.14
+
+### Patch Changes
+
+- Updated dependencies [[`9d4c7ed9c`](https://github.com/nextui-org/nextui/commit/9d4c7ed9cf46df182437089e746e255b4b22bd42), [`d79808dbe`](https://github.com/nextui-org/nextui/commit/d79808dbe163362fecbfb650906009d0fb6be74a), [`c9c5564c5`](https://github.com/nextui-org/nextui/commit/c9c5564c58b4dea692e744f0ae9409666e84d894)]:
+  - @nextui-org/ripple@2.0.22
+  - @nextui-org/radio@2.0.23
+  - @nextui-org/navbar@3.0.0
+  - @nextui-org/button@2.0.22
+  - @nextui-org/card@2.0.22
+  - @nextui-org/accordion@2.0.23
+  - @nextui-org/dropdown@2.1.11
+  - @nextui-org/modal@2.0.23
+  - @nextui-org/popover@2.1.10
+  - @nextui-org/snippet@2.0.26
+  - @nextui-org/table@2.0.23
+  - @nextui-org/tabs@2.0.21
+  - @nextui-org/tooltip@2.0.24
+  - @nextui-org/progress@2.0.21
+  - @nextui-org/select@2.1.12
+
 ## 2.1.13
 
 ### Patch Changes
